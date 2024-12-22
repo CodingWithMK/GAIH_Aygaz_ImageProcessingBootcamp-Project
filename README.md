@@ -123,29 +123,12 @@ Selected classes:
 
 ### 1. Clone the Repository:
 ```bash
-$ git clone https://github.com/your-repo/image-classification-cnn.git
-$ cd image-classification-cnn
+$ git clone https://github.com/CodingWithMK/GAIH_Aygaz_ImageProcessingBootcamp-Project.git
 ```
 
 ### 2. Install Dependencies:
 ```bash
 $ pip install -r requirements.txt
-```
-
-### 3. Run the Project:
-- Train the model:
-```bash
-$ python train.py
-```
-- Test the model:
-```bash
-$ python test.py
-```
-
-### 4. Visualize Results:
-- Generate plots:
-```bash
-$ python visualize.py
 ```
 
 ---
