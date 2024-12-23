@@ -3,6 +3,11 @@
 This project involves developing and evaluating a robust image classification model using Convolutional Neural Networks (CNN). The model was trained on the "Animals with Attributes 2" dataset and tested under various lighting and color manipulation conditions to assess its robustness.
 
 ---
+## Kaggle Link: https://www.kaggle.com/code/codingwithmk/gaih-imageprocessingbootcamp-project-dec-2024
+
+### Note:
+Visit my Kaggle Account to have a look to the already ran project with its outputs.
+---
 
 ## Table of Contents
 
